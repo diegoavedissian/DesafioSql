@@ -1,6 +1,6 @@
 # DesafioSql
 
-Desafio do curso de Sql da Academia MarketData
+Desafio de um curso de Sql de uma empresa (confidencial)
 
 Linguagem SQL
 
